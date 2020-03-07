@@ -17,3 +17,10 @@ Jetson Nano Rover
 | Wide Angle | https://www.amazon.com/gp/product/B07HF81BVL/ref=ppx_yo_dt_b_asin_title_o06_s05?ie=UTF8&psc=1|
 | Transformer | https://www.amazon.com/gp/product/B01NALDSJ0/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1|
 | Battery| https://www.amazon.com/gp/product/B07PH6791K/ref=ppx_yo_dt_b_asin_image_o09_s00?ie=UTF8&psc=1|
+|DC to DC|https://www.amazon.com/gp/product/B00DX6ZUBM/ref=ppx_yo_dt_b_asin_image_o08_s00?ie=UTF8&psc=1|
+| DC to USB| https://www.amazon.com/gp/product/B07Q5PHHFK/ref=ppx_yo_dt_b_asin_image_o09_s00?ie=UTF8&psc=1 |
+|Jump Wires|https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-100pcs/dp/B005TZJ0AM/ref=sr_1_9?keywords=jump+wires&qid=1583624949&sr=8-9|
+|Antennas|https://www.amazon.com/gp/product/B01E29566W/ref=ppx_yo_dt_b_asin_title_o06_s04?ie=UTF8&psc=1|
+|Wifi-Module|https://www.amazon.com/gp/product/B01MZA1AB2/ref=ppx_yo_dt_b_asin_title_o06_s05?ie=UTF8&psc=1|
+|Jumper Cap|https://www.amazon.com/gp/product/B077957RN7/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1|
+|M2 Screws & Nuts|https://www.amazon.com/gp/product/B014OO5KQG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1|
