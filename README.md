@@ -2,3 +2,9 @@
 Jetson Nano Rover
 
 ## Parts List
+
+| Part        | Link           | 
+| ------------- |:-------------:| 
+| Metal Gear Servo x 8    | https://www.amazon.com/gp/product/B07QR4M3MV/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 | 
+| 360 Servo x 6  | https://www.amazon.com/Feetech-Degree-Continuous-Rotation-Arduino/dp/B079MF1BZS/ref=sr_1_2?keywords=servo+wheel&qid=1583622795&sr=8-2      |
+| zebra stripes | are neat      |
