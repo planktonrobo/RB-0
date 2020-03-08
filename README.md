@@ -1,7 +1,7 @@
 # RB-0
 RB-0 is a hobby sized rover that uses the same suspension method as NASA's newer differential-bar rovers. It uses a Jetson Nano, a camera, 15 servos, a Circuit Playground Express, and Wi-Fi for lots of fun with manuevering and running AI. It can climb small obstacles, move its camera in different directions, and steer all 6 wheels. I wanted to make it open source so anyone can have fun and learn from it! 
 
-All parts are either 3D printed or listed below from Amazon. *Note: This robot uses the Jetbot SD card image which can be found here*: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view 
+All parts are either 3D printed or listed below from Amazon and one from Actuonix. *Note: This robot uses the Jetbot SD card image which can be found here*: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view 
 
 
 ## Parts List
@@ -27,3 +27,4 @@ All parts are either 3D printed or listed below from Amazon. *Note: This robot u
 |Wifi-Module|https://www.amazon.com/gp/product/B01MZA1AB2/ref=ppx_yo_dt_b_asin_title_o06_s05?ie=UTF8&psc=1|
 |Jumper Cap|https://www.amazon.com/gp/product/B077957RN7/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1|
 |M2 Screws & Nuts|https://www.amazon.com/gp/product/B014OO5KQG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1|
+|Actuonix L12|https://www.actuonix.com/L12-R-Linear-Servo-For-Radio-Control-p/l12-r.htm|
