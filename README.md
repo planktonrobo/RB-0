@@ -1,5 +1,11 @@
 # RB-0
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=74PCJwJipgs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+https://www.youtube.com/watch?v=74PCJwJipgs
+
 Hackster link: https://www.hackster.io/planktonrobo/rb-0-jetson-nano-powered-rover-ca242a
 
 RB-0 is a hobby sized rover that uses the same suspension method as NASA's newer differential-bar rovers. It uses a Jetson Nano, a camera, 15 servos, a Circuit Playground Express, and Wi-Fi for lots of fun with manuevering and running AI. It can climb small obstacles, move its camera in different directions, and steer all 6 wheels. I wanted to make it open source so anyone can have fun and learn from it! 
