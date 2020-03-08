@@ -1,7 +1,7 @@
 # RB-0
 RB-0 is a hobby sized rover that uses the same suspension method as NASA's newer differential-bar rovers. It uses a Jetson Nano, a camera, 15 servos, a Circuit Playground Express, and Wi-Fi for lots of fun with manuevering and running AI. It can climb small obstacles, move its camera in different directions, and steer all 6 wheels. I wanted to make it open source so anyone can have fun and learn from it! 
 
-All parts are either 3D printed or listed below from Amazon. *Note: This robot uses the Jetbot SD card image which can be found here: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view *
+All parts are either 3D printed or listed below from Amazon. *Note: This robot uses the Jetbot SD card image which can be found here*: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view 
 
 ## Parts List
 
