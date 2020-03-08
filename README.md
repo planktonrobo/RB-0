@@ -3,6 +3,7 @@ RB-0 is a hobby sized rover that uses the same suspension method as NASA's newer
 
 All parts are either 3D printed or listed below from Amazon. *Note: This robot uses the Jetbot SD card image which can be found here*: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view 
 
+
 ## Parts List
 
 | Part        | Link           | 
