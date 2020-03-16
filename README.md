@@ -1,5 +1,13 @@
 # RB-0
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V4nIzzXcMwA
+" target="_blank"><img src="http://img.youtu.be/V4nIzzXcMwA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+https://youtu.be/V4nIzzXcMwA
+
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=74PCJwJipgs
 " target="_blank"><img src="http://img.youtube.com/vi/74PCJwJipgs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
